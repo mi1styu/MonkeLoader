@@ -1,0 +1,8 @@
+**TUTORIAL**
+======================================================================================================================================
+
+Scan the DLL using a red button that says "Scan DLL's" and it will take a while.
+Search for a DLL (have to wait until all DLL's are scanned), enter in the file name, and then click "Search DLL". You enter the file name in the box above!
+Above that to put a .dll in a folder you do "Select Folder / Path", find the folder you wanna put it in.
+It will install another dll but put it into the folder you select, so if you want, delete the other one in downloads folder.
+Once that is all done, click the button "Install In Path" then it will install in folder.
